@@ -1,0 +1,57 @@
+ul{
+    color: blue;
+    background-color: rgba(115, 227, 109, 0.464);
+}
+#div1{
+    background-color: rgba(0, 255, 30, 0.728);
+}
+
+h3{
+    color: gray;
+}
+
+h5{
+    color: crimson;
+}
+
+#fushi{
+    color: chocolate;
+    text-shadow: 100px;
+}
+
+#face{
+    margin-left: 2%;
+    height: 100px;
+    border-radius: 15px;
+}
+
+img.pic1{
+    height: 90px;
+    width: 150px;
+}
+
+figure.fig1{
+    height: 125px;
+    float: left;
+    padding-right: 5px;
+}
+
+img.pic2{
+    height: 155px;
+}
+
+br{
+    clear: both;
+}
+
+#title1{
+    color: rgba(4, 124, 184, 0.822);
+}
+
+#title2{
+    color: rgba(4, 124, 184, 0.822);
+}
+
+#title3{
+    color: rgba(4, 124, 184, 0.822);
+}
